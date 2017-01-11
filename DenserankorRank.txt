@@ -1,3 +1,5 @@
+
+
 what is the difference between Rank() and Dense Rank() ?
 Rank() : 
    Rank is a functions used to define rank for the values with in a given partition.
