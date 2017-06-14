@@ -1,6 +1,7 @@
 Reference url: http://www.programmerinterview.com/index.php/database-sql/rank-versus-dense_rank/
 
 what is the difference between Rank() and Dense Rank() ?
+Difference between Rank() and Dense rank() is ,Dense rank() gives the consecutive integers as ranking even a tie occurs where as ranking generates non consecutive integers when a tie occurs.
 Rank() : 
    Rank is a functions used to define rank for the values with in a given partition.
 Ex: For example let's take set of values {100,200,300,400,500).Let's sort it in descending order then it becomes {500,400,300,200,100}.
