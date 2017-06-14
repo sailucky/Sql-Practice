@@ -1,4 +1,4 @@
-
+Reference url: http://www.programmerinterview.com/index.php/database-sql/rank-versus-dense_rank/
 
 what is the difference between Rank() and Dense Rank() ?
 Rank() : 
